@@ -11,10 +11,12 @@ Bộ hồ sơ gồm:
 1. Tài liệu thuyết minh sản phẩm;
 2. Toàn bộ mã nguồn, dependencies và tệp cấu hình;
 3. README hướng dẫn cài đặt, cấu hình và tái lập kết quả;
-4. Link dữ liệu sử dụng: **[LINK DỮ LIỆU]**;
-5. Link mã nguồn: **[LINK SOURCE CODE]**;
-6. Link checkpoint/model: **[LINK CHECKPOINT HOẶC CÁC LINK HUGGING FACE]**;
-7. Link bài nộp và artifact kiểm chứng: **[LINK SUBMISSION/ARTIFACT]**.
+4. Link dữ liệu sử dụng: https://huggingface.co/datasets/AIGuruTinix/ViFinQA;
+5. Link mã nguồn: https://github.com/Viendeptrai1/lastdance-vifinqa;
+6. Link checkpoint/model:
+   - https://huggingface.co/Qwen/Qwen2.5-14B-Instruct;
+   - https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B;
+   - https://huggingface.co/Qwen/Qwen3-14B.
 
 Artifact bài nộp đã được replay trên 1.012/1.012 câu hỏi. Toàn bộ 5.941 tệp evidence CSV được đối chiếu về bảng nguồn trong dữ liệu do BTC cung cấp; các pandas query tính kết quả trực tiếp từ dataframe evidence tại thời điểm thực thi.
 
@@ -22,7 +24,6 @@ Kính nhờ Ban Tổ chức xác nhận đã nhận đủ hồ sơ. Nếu cần 
 
 Trân trọng,
 
-**[HỌ TÊN ĐẠI DIỆN]**  
+**Đội trưởng: Phan Quốc Viễn**  
 Đội **lastdance**  
-Email: **[EMAIL]**  
-Điện thoại: **[SỐ ĐIỆN THOẠI]**
+Điện thoại: **0914426099**

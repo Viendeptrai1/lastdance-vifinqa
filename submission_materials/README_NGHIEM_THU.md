@@ -59,7 +59,7 @@ Kho hiện có 1.973 documents và 146.246 tables. `evidence_key` có dạng `<d
 
 ### 2.3. Truy cập dữ liệu
 
-- Link dữ liệu chia sẻ: **[ĐIỀN LINK GOOGLE DRIVE/ONEDRIVE]**
+- Link dữ liệu chia sẻ: **https://huggingface.co/datasets/AIGuruTinix/ViFinQA**
 - Quyền truy cập: **[Anyone with the link / theo yêu cầu của BTC]**
 - Ngày kiểm tra quyền tải bằng tài khoản ngoài đội: **[ĐIỀN NGÀY GIỜ]**
 - Checksum dữ liệu/manifest: cung cấp trong `outputs/baselines/benchmark_locked/manifest.json` và release manifest.
@@ -134,7 +134,7 @@ Bộ mã nguồn bàn giao gồm:
 - cấu hình release và execution plan đã khóa;
 - tài liệu dữ liệu, mô hình và hướng dẫn tái lập.
 
-Link mã nguồn: **[ĐIỀN LINK GITHUB/DRIVE]**
+Link mã nguồn: **https://github.com/Viendeptrai1/lastdance-vifinqa**
 
 ### 4.2. Dependencies
 
@@ -276,6 +276,6 @@ PYTHONPATH=src pytest -q
 
 ## 8. Thông tin liên hệ
 
-- Đại diện đội: **[ĐIỀN HỌ TÊN]**
+- Đại diện đội: **Phan Quốc Viễn**
 - Email: **[ĐIỀN EMAIL]**
-- Số điện thoại: **[ĐIỀN SỐ ĐIỆN THOẠI]**
+- Số điện thoại: **0914426099**
